@@ -6,7 +6,5 @@
 
 此脚本每次运行只会进行一次申购
 
----
-
-Originally by 太妃榛果拿铁鸭, Edited by 面向大海
-https://www.jianshu.com/p/ccbea869d2c2
+### Tips：
+可以根据前一次结果适当提前或延后输入的申购时间
