@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         自动抢口罩
-// @version      0.4
+// @name         定时申购口罩
+// @version      0.5
 // @description  一个在绍兴地区辅助抢口罩的脚本
 // @author       mxdh（面向大海）
 // @match        http://*/yypt/search/portlet.xhtml
